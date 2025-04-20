@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "jT/dmZ1JZCYuj1zEI9jpGrGQNnqRBePbgyP0tckqSMg=",
+  "Source": "PointService",
+  "BasePath": "_content/PointService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PointService\\wwwroot",
+      "Source": "PointService",
+      "ContentRoot": "C:\\Users\\bagda\\RiderProjects\\ServerPart\\PointService\\wwwroot\\",
+      "BasePath": "_content/PointService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bagda\\RiderProjects\\ServerPart\\PointService\\wwwroot\\index.html",
+      "SourceId": "PointService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bagda\\RiderProjects\\ServerPart\\PointService\\wwwroot\\",
+      "BasePath": "_content/PointService",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\bagda\\RiderProjects\\ServerPart\\PointService\\wwwroot\\js\\app.js",
+      "SourceId": "PointService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bagda\\RiderProjects\\ServerPart\\PointService\\wwwroot\\",
+      "BasePath": "_content/PointService",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ]
+}
